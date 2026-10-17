@@ -1,0 +1,6 @@
+{
+  "name": "AppForge AI",
+  "description": "Transform app ideas into comprehensive requirements, relational schemas, interactive UI wireframes, starter code packages, and automated test plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
